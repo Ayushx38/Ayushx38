@@ -1,5 +1,7 @@
 # 💫 About Me:
-### About Me:<br><br>🔭 I’m currently working on **RAG, Agentic AI, Generative AI, and Cloud Computing**.<br><br>🤝 I’m looking to collaborate on **RAG, Agentic AI, Generative AI, LLM, and AI-powered projects**.<br><br>🫱 I’m looking for help with **building intelligent AI agents, advanced RAG systems, and LLM-based applications**.<br><br>🌱 I’m currently learning **LLMs, Agentic AI, RAG, LangChain, Vector Databases, AI APIs, and Cloud AI services**.<br><br>💬 Ask me about **Artificial Intelligence, Generative AI, RAG, LLMs, AI Agents, and Prompt Engineering**.<br><br>⚡ Fun fact: **I love turning AI ideas into real-world projects and learning by building.**<br>
+### About Me:<br><br>I'm an AI/ML enthusiast focused on **Generative AI** and **Agentic AI systems**, currently working with **RAG**, **LLMs**, and **Cloud Computing**. I enjoy building intelligent AI agents and LLM-powered applications, exploring tools like **LangChain**, **Vector Databases**, **AI APIs**, and **Cloud AI services** along the way.
+
+I'm always open to collaborating on innovative projects in AI, RAG, and Generative AI — I like turning ideas into real, working solutions and learning by building.
 
 
 ## 🌐 Socials:
