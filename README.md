@@ -15,7 +15,7 @@ I'm always open to collaborating on innovative projects in AI, RAG, and Generati
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayushx38&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushx38)](https://github.com/Ayushx38/github-profile-trophy)
+View my [GitHub achievements](https://github.com/Ayushx38?tab=achievements) on GitHub.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
